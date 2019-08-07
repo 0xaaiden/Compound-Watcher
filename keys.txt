@@ -1,0 +1,8 @@
+{
+    "infura-api": "",
+    "infura-private": "",
+    "pushbullet-api": "",
+    "unitroller": "0x3d9819210A31b4961b30EF54bE2aeD79B9c9Cd3B",
+    "abi": "http://api.etherscan.io/api?module=contract&action=getabi&address=0x178053c06006e67e09879c09ff012ff9d263df29&format=raw"
+
+}
