@@ -1,5 +1,5 @@
 # Compound Watcher
- A python bot that watches potential notifications on Compound Finance and sends notifications through pushbullet
+ A python bot that watches potential liquidations on Compound Finance and sends notifications through pushbullet
 
 ![Image of Bot](https://i.imgur.com/MN6e8m4.png)
 
