@@ -13,6 +13,7 @@ The bot shows further information about every address :
 * Estimated profit if liquidated
 
 In the case an address can be liquidited, the bot sends a notification through pushbullet.
+
 *A pushbullet free api is needed to run the bot*
 
 ## Install the bot
