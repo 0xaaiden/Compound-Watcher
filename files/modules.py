@@ -74,6 +74,9 @@ def token_symbol(tokenname):
             return "ZRX"        
         if tokenname == "0xc11b1268c1a384e55c48c2391d8d480264a3a7f4":
             return "wBTC"
+        if tokenname == "0x5d3a536e4d6dbd6114cc1ead35777bab948e3643":
+            return "cDAI"
+
         
 def api():
     global response
